@@ -5,4 +5,5 @@ motor
 pyromod==1.1
 pykeyboard
 sqlalchemy==1.3.23
+uvloop
 git+https://github.com/noctyracode/pyrogram
